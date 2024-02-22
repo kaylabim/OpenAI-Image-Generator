@@ -1,1 +1,1 @@
-# Personal-Project
+# OpenAI Image Generator 
